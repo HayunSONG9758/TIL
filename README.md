@@ -1,3 +1,6 @@
 # 20210320
-* python
-* jupyter notebook
+# What I have to do
+* 파이참 설치(컴프입 듣고)
+* 영피셜 자료조사
+> 기존 사업 조사 / 차이점 빌드업
+> 뉴 새끼아이디어 
